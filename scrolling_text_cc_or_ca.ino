@@ -1,7 +1,7 @@
 /*
  * https://herculestechnology.blogspot.ro/2015/11/arduino-based-seven-segments-led.html
  * 
-Project: Seven Segment Scrolling Texts using COMMON ANODES LEDs oe COMOON CHATEDES LEDs
+Project: Seven Segment Scrolling Texts using COMMON ANODES LEDs or COMON CATHODES LEDs
  
 Written by: Anumbor Ogor (eocote2002@yahoo.com, +234-8036837259)
  
